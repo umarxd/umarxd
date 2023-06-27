@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://media.tenor.com/NjbLQCvQoC8AAAAM/bongo-cat.gif" alt="lang image here" /></p>
 
-<p align="center">I'm ömer, a programmer.</p>
+<p align="center">I'm ömer, programmer and web designer.</p>
 
 ## Skills
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript 
